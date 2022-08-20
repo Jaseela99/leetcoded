@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let arr=[]
+     let arr=[]
     for(let i=0;i<nums.length;i++){
        
         if(arr.includes(nums[i])){
